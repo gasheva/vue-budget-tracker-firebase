@@ -1,4 +1,7 @@
 # vue-youtube2
+Клиент-серверное приложение на Vue.js и Firebase
+
+Ссылка на уроки: https://www.youtube.com/playlist?list=PLqKQF2ojwm3njNpksFCi8o-_c-9Vva_W0
 
 ## Project setup
 ```
